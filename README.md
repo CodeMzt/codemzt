@@ -31,8 +31,8 @@ Fudan University · Shanghai · AI Agent · Embedded · Robotics
 ## Stats
 
 <div align="center">
-  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codemzt&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&text_color=57606a&title_color=24292f&icon_color=0969da" />
-  <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemzt&layout=compact&hide_border=true&bg_color=00000000&text_color=57606a&title_color=24292f" />
+  <img height="150" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codemzt&theme=transparent" />
+  <img height="150" alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codemzt&theme=transparent" />
 </div>
 
 ## Contact
