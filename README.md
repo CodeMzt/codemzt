@@ -1,51 +1,41 @@
-<h1 align="center">Hi there, I'm Ziteng Ma (CodeMzt) 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
+# Ziteng Ma · CodeMzt
 
----
+Fudan University · Shanghai · AI Agent · Embedded · Robotics
 
-### 🙋‍♂️ About Me
+[me.maziteng.cn](https://me.maziteng.cn) · [maziteng2006@gmail.com](mailto:maziteng2006@gmail.com) · [GitHub](https://github.com/CodeMzt) · [Fudan University](https://www.fudan.edu.cn/)
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 Always exploring and learning new technologies
-- 💬 Feel free to reach out and connect with me!
+</div>
 
----
+## About
 
-### 📊 GitHub Stats
+我在复旦大学学习与研究，兴趣集中在两类方向：
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codemzt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+- AI/Agent：围绕「可复用的个人智能体运行时」做工程化探索
+- 嵌入式/机器人：视觉追踪、控制、硬件与软件协同
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemzt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## Selected Work
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemzt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- [MeetYou](https://github.com/CodeMzt/MeetYou) · Personal LLM agent runtime（conversation/memory/scheduling/tool routing）
+- [color_track_gimbal](https://github.com/CodeMzt/color_track_gimbal) · 基于 K230 + STM32 的二维云台视觉实时追踪
+- [HW1](https://github.com/CodeMzt/HW1) / [HW2](https://github.com/CodeMzt/HW2) · 复旦大学「人工智能基础」大作业学习与复习资料
+- [MyBalancingCar](https://github.com/CodeMzt/MyBalancingCar) · STM32 PID 平衡小车学习记录
 
----
+## Now
 
-### 📬 Contact Me
+- 维护与迭代：MeetYou（Agent Runtime）
+- 打磨：嵌入式视觉与控制相关项目
+- 记录：课程作业/工具与可复用代码片段
 
-<p align="center">
-  <a href="mailto:maziteng2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-maziteng2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="mailto:codemzt@foxmail.com">
-    <img src="https://img.shields.io/badge/Foxmail-codemzt%40foxmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Foxmail" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/QQ-1924306130-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
-</p>
+## Stats
 
----
+<div align="center">
+  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codemzt&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&text_color=57606a&title_color=24292f&icon_color=0969da" />
+  <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemzt&layout=compact&hide_border=true&bg_color=00000000&text_color=57606a&title_color=24292f" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codemzt&color=58a6ff&style=flat-square" alt="Profile Views" />
-</p>
+## Contact
+
+- Email: [maziteng2006@gmail.com](mailto:maziteng2006@gmail.com)
+- Website: [me.maziteng.cn](https://me.maziteng.cn)
