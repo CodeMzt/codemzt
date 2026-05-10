@@ -2,7 +2,7 @@
 
 # Ziteng Ma · CodeMzt
 
-Fudan University · Shanghai · AI Agent · Embedded · Robotics
+Fudan University · Shanghai
 
 [me.maziteng.cn](https://me.maziteng.cn) · [maziteng2006@gmail.com](mailto:maziteng2006@gmail.com) · [GitHub](https://github.com/CodeMzt) · [Fudan University](https://www.fudan.edu.cn/)
 
@@ -10,23 +10,13 @@ Fudan University · Shanghai · AI Agent · Embedded · Robotics
 
 ## About
 
-我在复旦大学学习与研究，兴趣集中在两类方向：
-
-- AI/Agent：围绕「可复用的个人智能体运行时」做工程化探索
-- 嵌入式/机器人：视觉追踪、控制、硬件与软件协同
+我在复旦大学学习与研究，关注嵌入式开发、人工智能以及具身智能领域。
 
 ## Selected Work
 
 - [MeetYou](https://github.com/CodeMzt/MeetYou) · Personal LLM agent runtime（conversation/memory/scheduling/tool routing）
 - [color_track_gimbal](https://github.com/CodeMzt/color_track_gimbal) · 基于 K230 + STM32 的二维云台视觉实时追踪
-- [HW1](https://github.com/CodeMzt/HW1) / [HW2](https://github.com/CodeMzt/HW2) · 复旦大学「人工智能基础」大作业学习与复习资料
-- [MyBalancingCar](https://github.com/CodeMzt/MyBalancingCar) · STM32 PID 平衡小车学习记录
-
-## Now
-
-- 维护与迭代：MeetYou（Agent Runtime）
-- 打磨：嵌入式视觉与控制相关项目
-- 记录：课程作业/工具与可复用代码片段
+- [MyBalancingCar](https://github.com/CodeMzt/MyBalancingCar) · STM32 PID 平衡小车
 
 ## Stats
 
