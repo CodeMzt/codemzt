@@ -14,7 +14,6 @@ Fudan University · Shanghai
 
 ## Selected Work
 
-- [MeetYou](https://github.com/CodeMzt/MeetYou) · Personal LLM agent runtime（conversation/memory/scheduling/tool routing）
 - [color_track_gimbal](https://github.com/CodeMzt/color_track_gimbal) · 基于 K230 + STM32 的二维云台视觉实时追踪
 - [MyBalancingCar](https://github.com/CodeMzt/MyBalancingCar) · STM32 PID 平衡小车
 
