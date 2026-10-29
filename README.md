@@ -1,30 +1,13 @@
-<div align="center">
+# Ziteng Ma · 马梓腾
 
-# Ziteng Ma · CodeMzt
+Fudan undergraduate interested in AI, embedded systems, and control.
 
-Fudan University · Shanghai
+## Projects
 
-[me.maziteng.cn](https://me.maziteng.cn) · [maziteng2006@gmail.com](mailto:maziteng2006@gmail.com) · [GitHub](https://github.com/CodeMzt) · [Fudan University](https://www.fudan.edu.cn/)
+- [**Visual Tracking Gimbal**](https://github.com/CodeMzt/color_track_gimbal) — K230 image processing, UART communication, and STM32 PID servo control.
+- [**STM32 Balancing Car**](https://github.com/CodeMzt/MyBalancingCar) — A learning project using cascaded PID control, inertial sensing, encoder feedback, and motor drivers.
+- [**Inverted Pendulum**](https://github.com/CodeMzt/InvertedPendulum) — Embedded double-loop PID control.
+- [**MPU6050 Attitude Estimation**](https://github.com/CodeMzt/MyMPU6050) — Integration of the official DMP library on STM32F103C8T6.
+- [**DanXi for HarmonyOS**](https://github.com/CodeMzt/danxi-harmony) — A student-maintained Fudan campus app preparing for invitation testing. Public project introduction, privacy information, and issue tracking.
 
-</div>
-
-## About
-
-我在复旦大学学习与研究，关注嵌入式开发、人工智能以及具身智能领域。
-
-## Selected Work
-
-- [color_track_gimbal](https://github.com/CodeMzt/color_track_gimbal) · 基于 K230 + STM32 的二维云台视觉实时追踪
-- [MyBalancingCar](https://github.com/CodeMzt/MyBalancingCar) · STM32 PID 平衡小车
-
-## Stats
-
-<div align="center">
-  <img height="150" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codemzt&theme=transparent" />
-  <img height="150" alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codemzt&theme=transparent" />
-</div>
-
-## Contact
-
-- Email: [maziteng2006@gmail.com](mailto:maziteng2006@gmail.com)
-- Website: [me.maziteng.cn](https://me.maziteng.cn)
+[Website](https://me.maziteng.cn/) · [Email](mailto:maziteng2006@gmail.com)
